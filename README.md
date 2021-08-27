@@ -16,7 +16,7 @@ Step 1: clone the project in your localhost.
 
 Step 2: Go to in project root directory
 
-Step 2: ``npm run install``
+Step 2: ``npm install``
 
 Setp 3: ``docker-compose up -d``
 
