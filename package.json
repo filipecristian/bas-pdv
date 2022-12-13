@@ -32,7 +32,7 @@
         "bootstrap": "^4.5.3",
         "core-js": "^2.5.4",
         "electron": "^1.8.8",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "mongoose": "^5.10.14",
         "rxjs": "^6.6.3",
         "zone.js": "^0.8.26"
